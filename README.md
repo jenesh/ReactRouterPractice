@@ -1,2 +1,0 @@
-# ReactRouterPractice
-Created with CodeSandbox
